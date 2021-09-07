@@ -52,7 +52,7 @@
  [],
  False,
  False,
- 1631028469,
+ 1631048962,
  [('runw.exe',
    'c:\\users\\air_w\\gitprojects\\work_timer\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])
